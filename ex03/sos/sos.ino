@@ -1,3 +1,5 @@
+// 作业3：使用millis()实现LED SOS闪烁信号
+// S = 短闪150ms，O = 长闪450ms，循环间隔2秒
 // ex03/sos.ino
 // 使用 millis() 实现 LED SOS 信号
 // S = 短闪（0.15秒）, O = 长闪（0.45秒）
